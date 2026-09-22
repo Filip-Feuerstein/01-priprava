@@ -1,2 +1,5 @@
-Text ze cviceni po úpravě v mailu, před konfliktem.
+HEAD
+Text po kompromisním spojení.
+
+conflict-test
 Under development.
