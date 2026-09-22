@@ -1,2 +1,3 @@
-Text ze cviceni po úpravě v Gitu.
+Toto je konfliktní text.
+
 Under development.
